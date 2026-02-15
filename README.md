@@ -321,5 +321,5 @@ Aura is the only platform where:
 
 ---
 
-# Closing Thought
+
 
